@@ -8,7 +8,7 @@
 <p align=center>I am a <strong>Swift in the Cloud</strong> developer based in Toronto, Canada.</p>
 <p align=center>I am currently building a <a href="https://www.flue.cloud/">Swift cloud services platform</a> and I <a href="https://www.flue.cloud/blog/">blog</a> about Swift on Server/Cloud development.</p>
 
-## Swift in the Cloud Article/Code Series
+## Swift in the Cloud Series
 - Swift Cloud File Storage with AWS S3 (coming March 2023)
 - Swift Cloud Email Management with AWS SES (coming mid-February 2023)
 - Swift Cloud Databases with AWS DynamoDB (coming February 2023)
