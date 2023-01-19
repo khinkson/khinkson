@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="http://twitter.com/kevin_hinkson"><img src="https://img.shields.io/badge/twitter-blue.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://twitter.com/kevin_hinkson"><img src="https://img.shields.io/badge/twitter-blue.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://hachyderm.io/@khinkson"><img src="https://img.shields.io/badge/mastodon-%230077B5.svg?&style=for-the-badge&logo=mastodon&logoColor=white"></a>
 </div>
 
