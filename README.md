@@ -13,7 +13,7 @@
 - Swift Cloud Email Management with AWS SES (coming mid-February 2023)
 - Swift Cloud Databases with AWS DynamoDB (coming February 2023)
 - [Swift Cloud Compute with AWS Lambda](https://www.flue.cloud/swift-server-cloud/swift-cloud-compute-aws-lambda/)
-- [Why Swift in the Cloud](https://www.flue.cloud/swift-server-cloud/why-swift-cloud/)
+- [Why Swift in the Cloud?](https://www.flue.cloud/swift-server-cloud/why-swift-cloud/)
 
 ## Latest Articles from my project [blog](https://www.flue.cloud/blog/).
 - [Serverless Swift Lambda Performance](https://www.flue.cloud/blog/serverless-swift-lambda-performance/)
