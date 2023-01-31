@@ -18,7 +18,7 @@
 ## Latest Articles from my project [blog](https://www.flew.cloud/blog/).
 - [Serverless Swift Lambda Performance](https://www.flew.cloud/blog/serverless-swift-lambda-performance/)
 - [Improvements for Swift on Server in 2023](https://www.flew.cloud/blog/upcoming-improvements-swift-server-2023/)
-- [Flew in 2022](https://www.flue.cloud/blog/flew-2022/)
+- [Flew in 2022](https://www.flew.cloud/blog/flew-2022/)
 
 
 <!--
