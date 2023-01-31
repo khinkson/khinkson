@@ -6,19 +6,19 @@
 ### Hi there, I'm Kevin 👋
 
 <p align=center>I am a <strong>Swift in the Cloud</strong> developer based in Toronto, Canada.</p>
-<p align=center>I am currently building a <a href="https://www.flue.cloud/">Swift cloud services platform</a> and I <a href="https://www.flue.cloud/blog/">blog</a> about Swift on Server/Cloud development.</p>
+<p align=center>I am currently building a <a href="https://www.flew.cloud/">Swift cloud services platform</a> and I <a href="https://www.flew.cloud/blog/">blog</a> about Swift on Server/Cloud development.</p>
 
-## [Swift in the Cloud Series](https://www.flue.cloud/swift-server-cloud/)
+## [Swift in the Cloud Series](https://www.flew.cloud/swift-server-cloud/)
 - Swift Cloud File Storage with AWS S3 (coming March 2023)
 - Swift Cloud Email Management with AWS SES (coming mid-February 2023)
 - Swift Cloud Databases with AWS DynamoDB (coming February 2023)
-- [Swift Cloud Compute with AWS Lambda](https://www.flue.cloud/swift-server-cloud/swift-cloud-compute-aws-lambda/)
-- [Why Swift in the Cloud?](https://www.flue.cloud/swift-server-cloud/why-swift-cloud/)
+- [Swift Cloud Compute with AWS Lambda](https://www.flew.cloud/swift-server-cloud/swift-cloud-compute-aws-lambda/)
+- [Why Swift in the Cloud?](https://www.flew.cloud/swift-server-cloud/why-swift-cloud/)
 
-## Latest Articles from my project [blog](https://www.flue.cloud/blog/).
-- [Serverless Swift Lambda Performance](https://www.flue.cloud/blog/serverless-swift-lambda-performance/)
-- [Improvements for Swift on Server in 2023](https://www.flue.cloud/blog/upcoming-improvements-swift-server-2023/)
-- [Flue in 2022](https://www.flue.cloud/blog/flue-2022/)
+## Latest Articles from my project [blog](https://www.flew.cloud/blog/).
+- [Serverless Swift Lambda Performance](https://www.flew.cloud/blog/serverless-swift-lambda-performance/)
+- [Improvements for Swift on Server in 2023](https://www.flew.cloud/blog/upcoming-improvements-swift-server-2023/)
+- [Flew in 2022](https://www.flue.cloud/blog/flew-2022/)
 
 
 <!--
